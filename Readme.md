@@ -38,14 +38,14 @@ This Django project provides a FAQ service with REST API support. Follow this gu
 
    ```bash
    python manage.py makemigrations
-python manage.py migrate
+   python manage.py migrate
 
    ```
 
 5. **Create Superuser**
 
    ```bash
-   python manage.py createsuperuser
+  python manage.py createsuperuser
 
    ```
 
