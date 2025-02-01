@@ -7,4 +7,4 @@ googletrans==4.0.0-rc1
 flake8
 pytest
 pytest-django
-
+googletrans==4.0.0-rc1

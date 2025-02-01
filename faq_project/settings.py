@@ -20,6 +20,7 @@ INSTALLED_APPS = [
     "rest_framework",
     "ckeditor",
     "faq",
+    'django_extensions',
 ]
 
 MIDDLEWARE = [
