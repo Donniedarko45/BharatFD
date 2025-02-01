@@ -1,0 +1,10 @@
+Django>=3.2
+djangorestframework
+django-ckeditor
+django-redis
+redis
+googletrans==4.0.0-rc1
+flake8
+pytest
+pytest-django
+
